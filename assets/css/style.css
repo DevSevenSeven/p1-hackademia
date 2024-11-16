@@ -56,9 +56,17 @@ a:hover {
 
 p {
   border: solid 5px rgb(74, 61, 255);
-  padding: 5px;
+  padding: 10px;
   border-radius: 5px;
   color: white;
   background-color: rgb(48, 47, 47);
+  width: 220px;
 
+}
+
+hr {
+  border: none;
+  height: 2px;
+  color: #333;
+  background-color: #333;
 }
